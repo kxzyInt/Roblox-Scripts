@@ -1,5 +1,6 @@
 local scripts = {
-    [10821317529] = "https://raw.githubusercontent.com/kxzyInt/Roblox-Scripts/main/Novus%20Hub%20Scripts/Games/Pickaxe%20Mining%20Simulator.lua" -- Pickaxe Mining Simulator
+    [10925589760] = "https://raw.githubusercontent.com/kxzyInt/Roblox-Scripts/main/Novus%20Hub%20Scripts/Games/Merger%20Simulator.lua", -- Merge Simulator
+    [10821317529] = "https://raw.githubusercontent.com/kxzyInt/Roblox-Scripts/main/Novus%20Hub%20Scripts/Games/Pickaxe%20Mining%20Simulator.lua"-- Pickaxe Mining Simulator
 }
 
 placeId = game.PlaceId
