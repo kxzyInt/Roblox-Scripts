@@ -192,7 +192,7 @@ local function CreateWindow()
 					local queueteleport = (syn and syn.queue_on_teleport) or queue_on_teleport or (fluxus and fluxus.queue_on_teleport)
 
 					if queueteleport then
-						queueteleport('loadstring(game:HttpGet("https://raw.githubusercontent.com/kxzyInt/Scripts/main/Novus%20Hub%20Scripts/Novus%20Hub%20Main.lua"))()')
+						queueteleport('loadstring(game:HttpGet("https://raw.githubusercontent.com/kxzyInt/Roblox-Scripts/main/Script%20Hub%20-%20Novus%20Hub.lua"))()')
 					end
 				end
 			end,
