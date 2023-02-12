@@ -1,5 +1,5 @@
 local Games = {
-	[10821317529] = "https://raw.githubusercontent.com/kxzyInt/Scripts/main/Novus%20Hub%20Scripts/Games/Pickaxe%20Mining%20Sim.lua" -- Pickaxe Mining Simulator
+	[10821317529] = "https://raw.githubusercontent.com/kxzyInt/Roblox-Scripts/main/Novus%20Hub%20Scripts/Games/Pickaxe%20Mining%20Simulator.lua" -- Pickaxe Mining Simulator
 }
 
 if Games[game.PlaceId] then
