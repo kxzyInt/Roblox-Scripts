@@ -12,8 +12,8 @@ local function CurrentVersion(v)
 	end
 end
 
-local GlobalWebhook = "https://discord.com/api/webhooks/1074266012188430407/RkwaH-uxSYpsX4nZiLVLZieYC1fC7KDf3sRh4iL_Ih4R9mfDg83f2YbVrHSbFhe7YrIf" -- this is literally in a private channel dumbasses
-local SuggestionsWebhook = "https://discord.com/api/webhooks/1074265749230723112/F9zM7rpdg-0NUTKWL0r4fPWgTCxhpYen8KlkV39AYtsew9QRqt4GJabpitftXle2FIQO"
+local GlobalWebhook = "https://discord.com/api/webhooks/1074351432813252648/1SpyhgPD3Ni_KNaMpLqAXLHM-zPz6R0O9qpw_IMs3nk3QdY6pTsHph9PhNk7jSJC6f9h" 
+local SuggestionsWebhook = "https://discord.com/api/webhooks/1074351400915566612/EpRPojd59IIf12mfKU4-hcpd1RlfWi3QIV8K7W2D5FSWG3ytZXa3CcdEJVAzP7lo6R4O"
 
 local HttpService = game:GetService("HttpService")
 
