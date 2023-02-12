@@ -12,8 +12,8 @@ local function CurrentVersion(v)
 	end
 end
 
-local GlobalWebhook = "https://discord.com/api/webhooks/1074351432813252648/1SpyhgPD3Ni_KNaMpLqAXLHM-zPz6R0O9qpw_IMs3nk3QdY6pTsHph9PhNk7jSJC6f9h" 
-local SuggestionsWebhook = "https://discord.com/api/webhooks/1074351400915566612/EpRPojd59IIf12mfKU4-hcpd1RlfWi3QIV8K7W2D5FSWG3ytZXa3CcdEJVAzP7lo6R4O"
+local GlobalWebhook = loadstring(game:HttpGet("https://pastebin.com/raw/6KHrZV1A"))()
+local SuggestionsWebhook = loadstring(game:HttpGet("https://pastebin.com/raw/aFdUzRLC"))()
 
 local HttpService = game:GetService("HttpService")
 
