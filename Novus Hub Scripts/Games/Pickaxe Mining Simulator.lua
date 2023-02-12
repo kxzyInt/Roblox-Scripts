@@ -1,4 +1,4 @@
-local Player, Rayfield, Click, comma, Notify, CreateWindow, CurrentVersion = loadstring(game:HttpGet("https://raw.githubusercontent.com/kxzyInt/Scripts/main/Novus%20Hub%20Scripts/NVH%20Variables"))()
+local Player, Rayfield, Click, comma, Notify, CreateWindow, CurrentVersion = loadstring(game:HttpGet("https://raw.githubusercontent.com/kxzyInt/Roblox-Scripts/main/Novus%20Hub%20Scripts/Variables.lua"))()
 
 CurrentVersion("v1.1")
 
